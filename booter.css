@@ -1,0 +1,30 @@
+body {
+
+	background-image: url("header.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+body,html{
+	width:100%;
+	height:100%;
+}
+
+.col-sm{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	display: flex;
+	justify-content: center;
+	margin-top: 180px;
+	font-size:2rem;
+}
+
+#bottom{
+	display: flex;
+	justify-content: center;
+	margin-top:200px;
+}
+.clear{
+	background-color: transparent;
+}
+
